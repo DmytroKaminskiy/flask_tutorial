@@ -27,3 +27,11 @@ def foo():
     :return:
     """
     pass
+
+
+def foo3():
+    '''
+    doc string
+    :return:
+    '''
+    pass

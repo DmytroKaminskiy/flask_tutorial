@@ -102,11 +102,14 @@ http://  127.0.0.1  :5000  /  ?key=value
    start with ?
    key - value pair
 
-stop app in terminal - Ctrl + C
-
 VCS - version Control System
 
 git init - initialize empty repository
 git status
+git add {filename}
+git commit -m "message"
+git diff [filename]
+
+THIS SHOULD BE IN COMMIT
 
 """

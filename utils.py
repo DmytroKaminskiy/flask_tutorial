@@ -29,5 +29,9 @@ def foo():
     pass
 
 
-def foo2():
+def foo3():
+    '''
+    awdawda
+    :return:
+    '''
     pass

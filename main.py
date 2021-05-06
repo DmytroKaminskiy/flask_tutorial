@@ -109,7 +109,18 @@ git status
 git add {filename}
 git commit -m "message"
 git diff [filename]
+git push
+git pull
 
 THIS SHOULD BE IN COMMIT
+
+
+git servers
+1. GitHub
+2. BitBucket
+3. GitLab (opensource)
+4. Custom
+
+master - main
 
 """

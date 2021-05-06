@@ -22,4 +22,8 @@ def generate_users(count: int = 100):
 
 
 def foo():
+    """
+    hello world
+    :return:
+    """
     pass

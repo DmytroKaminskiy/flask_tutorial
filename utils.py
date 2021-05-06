@@ -27,3 +27,7 @@ def foo():
     :return:
     """
     pass
+
+
+def foo2():
+    pass

@@ -34,4 +34,7 @@ def foo3():
     doc string
     :return:
     '''
+
+
+def foo2():
     pass

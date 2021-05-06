@@ -19,3 +19,7 @@ def generate_users(count: int = 100):
         users.append(index)
 
     return users
+
+
+def foo():
+    pass

@@ -31,7 +31,10 @@ def foo():
 
 def foo3():
     '''
-    awdawda
+    doc string
     :return:
     '''
+
+
+def foo2():
     pass
